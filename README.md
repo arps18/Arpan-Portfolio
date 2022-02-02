@@ -1,3 +1,5 @@
 # Arpan-Portfolio
 
-My Another iteration of Portfolio! 
+Building my another version of my Portfolio!
+
+Will be updating soon :)
